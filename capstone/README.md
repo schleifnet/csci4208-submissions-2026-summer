@@ -1,10 +1,10 @@
 # Summer Capstone — `capstone`
 
-- **Student:** <Your Name>
-- **Project title:** <Title>
-- **External source repository:** <https://github.com/USERNAME/REPOSITORY>
-- **Deployed application:** <https://...>
-- **Demo video or media:** <optional URL>
+- **Student:** M Schleifstein
+- **Project title:** Hurricane Dashboard
+- **External source repository:** <https://github.com/GitUsername-42/hurricane-dashboard>
+- **Deployed application:** <https://...> TBD
+- **Demo video or media:** <optional URL> TBD
 
 ## Product summary
 
