@@ -3,7 +3,7 @@
 - **Student:** M Schleifstein
 - **Project title:** Hurricane Dashboard
 - **External source repository:** <https://github.com/GitUsername-42/hurricane-dashboard>
-- **Deployed application:** <https://...> TBD
+- **Deployed application:** <https://cozy-dodol-7fb019.netlify.app/>
 - **Demo video or media:** <optional URL> TBD
 
 ## Product summary
