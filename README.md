@@ -3,7 +3,7 @@
 > This repository is your course portfolio for labs and the capstone submission record.
 
 - **Student:** M Schleifstein
-- **GitHub username:** <Schleifnet>
+- **GitHub username:** Schleifnet
 - **Project board:** <optional project URL>
 - **Live portfolio:** https://schleifnet.github.io/csci4208-submissions-2026-summer/
 - 
