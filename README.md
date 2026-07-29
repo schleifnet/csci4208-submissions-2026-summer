@@ -2,11 +2,11 @@
 
 > This repository is your course portfolio for labs and the capstone submission record.
 
-- **Student:** <Your Name>
-- **GitHub username:** <username>
+- **Student:** M Schleifstein
+- **GitHub username:** <Schleifnet>
 - **Project board:** <optional project URL>
-- **Live portfolio:** <https://USERNAME.github.io/REPOSITORY/>
-
+- **Live portfolio:** https://schleifnet.github.io/csci4208-submissions-2026-summer/
+- 
 ## Getting started
 
 1. Create your own repository from the instructor submission repository and keep the default branch named `main`.
