@@ -2,7 +2,8 @@
 
 - **Student:** M Schleifstein
 - **Project title:** Hurricane Dashboard
-- **External source repository:** <https://github.com/GitUsername-42/hurricane-dashboard> https://github.com/GitUsername-42/Capstone
+- **External source repository:** <https://github.com/GitUsername-42/hurricane-dashboard> 
+                                    https://github.com/GitUsername-42/Capstone
 - **Deployed application:** https://snazzy-profiterole-598482.netlify.app/
 - **Demo video or media:** <optional URL> TBD
 
